@@ -269,20 +269,22 @@ header {
     margin-bottom: 10%;
 }
 
+
 .containerc {
     background-color: #FFF9EE;
-    padding: 0px 50px 20px 50px;
-    width: 20%;
+    padding: 20px 50px;
+    width: 90%;
     border-radius: 60px;
     border: 5px solid #252645;
-    margin-left: 67%;
-    margin-top: -41%;
+   
+    margin-top: 10%;
 }
 
 .textc {
     font-size: 3.5rem;
     color: #5241a7;
-    text-align: left;
+
+    text-align: center;
     margin-bottom: 20px;
     font-weight: bold;
 }
@@ -290,7 +292,8 @@ header {
 .textbc {
     font-size: 1.3rem;
     color: #101010;
-    text-align: left;
+    text-align: center;
+
 }
 
 .puyc {
@@ -300,10 +303,12 @@ header {
     color: #ffffff;
     background-color: #252645;
     padding: 20px 20px;
-    width: 100%;
+    width: 90%;
     margin-top: 10%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
+    margin-left: 5%;
 }
+
 
 .containerb,
 .containerg,
@@ -513,7 +518,7 @@ margin-bottom: 10%;
     }
 
     .containerc{
-        padding: 10px 160px ;
+        padding: 10px 5px ;
         margin-left: 10%;
         margin-top: 10%;
     }
@@ -529,15 +534,14 @@ margin-bottom: 10%;
         font-size: 1.3rem;
         color: #101010;
         text-align: left;
-        margin-left: -70%;
+        margin-left: 4%;
         margin-bottom: 20px;
     }
 
     .puyc{
-        width: 160%;
+        width: 100%;
         margin-top: 10%;
-        margin-bottom: 10%;
+        margin-bottom: 5%;
         font-size: 1rem;
-        margin-left: -10%;
-    }
+        margin-left: 2%;
 }
