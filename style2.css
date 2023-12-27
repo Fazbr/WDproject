@@ -549,3 +549,8 @@ margin-bottom: 10%;
         margin-left: 1%;
     }
 }
+
+html {
+    scroll-behavior: smooth;
+
+}
