@@ -353,55 +353,44 @@ margin-bottom: 10%;
     max-width: 400px;
     margin: 0 auto;
     margin-top: 2%;
-  }
+}
 
-  .form-group {
+.form-group {
     margin-bottom: 20px;
-  }
+}
 
-  label {
+label {
     display: block;
     font-size: 1.2rem;
     margin-bottom: 5px;
-  }
+}
 
-  input, textarea {
+input, select, textarea {
     width: 100%;
     padding: 10px;
     background-color: #EBE1CF;
     border-radius: 15px;
     box-sizing: border-box;
     border: 1px solid #EBE1CF;
-  }
-
-  input {
     margin-bottom: 10px;
-  }
+}
 
-  .container10{
+.container10 {
     background-color: #2c2c2c;
     padding: 10px 0;
     margin-top: 10%;
-  }
+}
 
-  .text10{
+.text10,
+.text11 {
     font-size: 0.7rem;
     color: #ffffff;
     text-align: left;
     margin-bottom: 20px;
     margin-left: 10%;
-    
-  }
+}
 
-  .text11{
-    font-size: 0.7rem;
-    color: #ffffff;
-    text-align: left;
-    margin-bottom: 20px;
-    margin-left: 10%;
-  }
-
-  .submit {
+.submit {
     background-color: #252645;
     color: #ffffff;
     border-radius: 15px;
@@ -409,8 +398,19 @@ margin-bottom: 10%;
     padding: 10px 20px;
     font-size: 1.2rem;
     margin-left: 1%;
-    padding: 10PX 170PX ;
-  }
+}
+
+/* Style for the select element */
+#package {
+    width: 100%;
+    padding: 10px;
+    background-color: #EBE1CF;
+    border-radius: 15px;
+    box-sizing: border-box;
+    border: 1px solid #EBE1CF;
+    margin-bottom: 10px;
+}
+
   button:hover {
     background-color: #c9c9c9;
     color: #2c2c2c;
